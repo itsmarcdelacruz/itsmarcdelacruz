@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -50,6 +50,8 @@
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=2C2D72)
 ![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
@@ -64,12 +66,14 @@
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-111111?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### Tools & Tech
+### Tooling & Platforms
 ![VSCode](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### State Management
 ![Redux](https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=764ABC)
 
 ### Creative
@@ -97,18 +101,14 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsmarcdelacruz&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarcdelacruz&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎵 Music
-I make music and sound design — sometimes that shows up in my projects as better UX, better timing, and better vibes.
+
+When I’m not coding, I’m producing **EDM** and DJing. I love building high-energy tracks, experimenting with sound design, and putting together mixes that keep momentum from start to finish. A lot of my creative workflow overlaps with how I build software: iterate fast, polish details, and ship consistently.
+
+Listen / follow:
+- **Spotify:** https://open.spotify.com/artist/7q2980YfC9zPRjX5UgGvCq  
+- **Apple Music:** https://music.apple.com/us/artist/marc-delacruz/1682167472  
+- **YouTube:** https://www.youtube.com/channel/UCUVNW9BW---bcDPpK7JYdgw
 
 ---
 
